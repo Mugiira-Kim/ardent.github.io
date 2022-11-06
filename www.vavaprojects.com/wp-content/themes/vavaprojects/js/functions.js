@@ -1,0 +1,1 @@
+No Content: https://www.vavaprojects.com/wp-content/themes/vavaprojects/js/functions.js?ver=20140616
